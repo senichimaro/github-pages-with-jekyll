@@ -1,5 +1,5 @@
 ---
-title: My post Title
+title: "My post Title"
 date: 2022-02-23
 ---
 
